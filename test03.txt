@@ -1,3 +1,1 @@
-git diff
-git status
-git diff HEAD
+漠漠水田飞白鹭，阴阴夏木啭黄鹂。
